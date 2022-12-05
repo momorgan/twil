@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>TWIL</title>
+    <link href="https://momorgan.github.io/twil/feed.xml" rel="self" />
+    <link href="https://momorgan.github.io/twil" />
+    <updated>2022-12-05T22:00:43+00:00</updated>
+    <author>
+        <name>Mo Morgan</name>
+    </author>
+    <id>https://momorgan.github.io/twil</id>
+
+    <entry>
+        <title>First post!</title>
+        <author>
+            <name>Mo Morgan</name>
+        </author>
+        <link href="https://momorgan.github.io/twil/first-post/"/>
+        <id>https://momorgan.github.io/twil/first-post/</id>
+
+        <updated>2022-12-05T22:00:43+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Just warming up this new little site. –Mo
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Just warming up this new little site.
+–Mo</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>

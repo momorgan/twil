@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "TWIL",
+    "description": "",
+    "home_page_url": "https://momorgan.github.io/twil",
+    "feed_url": "https://momorgan.github.io/twil/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Mo Morgan"
+    },
+    "items": [
+        {
+            "id": "https://momorgan.github.io/twil/first-post/",
+            "url": "https://momorgan.github.io/twil/first-post/",
+            "title": "First post!",
+            "summary": "Just warming up this new little site. –Mo",
+            "content_html": "<p>Just warming up this new little site.\n–Mo</p>\n",
+            "author": {
+                "name": "Mo Morgan"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-05T22:00:43+00:00",
+            "date_modified": "2022-12-05T22:00:43+00:00"
+        }
+    ]
+}
