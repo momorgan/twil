@@ -3,10 +3,26 @@
     <title>This week, I learnt</title>
     <link href="https://twil.momorgan.com/feed.xml" rel="self" />
     <link href="https://twil.momorgan.com" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2022-12-06T22:52:03+00:00</updated>
     <author>
         <name>Mo Morgan</name>
     </author>
     <id>https://twil.momorgan.com</id>
 
+    <entry>
+        <title>Weeknote 0001</title>
+        <author>
+            <name>Mo Morgan</name>
+        </author>
+        <link href="https://twil.momorgan.com/weeknote-0001/"/>
+        <id>https://twil.momorgan.com/weeknote-0001/</id>
+
+        <updated>2022-12-06T22:52:03+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Just warming up this little site. Aenean justo tortor, rhoncus sit amet fermentum sed, consequat a turpis. Donec diam orci, ultrices sit amet pellentesque eget, tincidunt at nisl. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur congue sapien ac&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
 </feed>
