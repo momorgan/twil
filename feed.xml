@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>This week, I learnt</title>
+    <title>This week, I learned</title>
     <link href="https://twil.momorgan.com/feed.xml" rel="self" />
     <link href="https://twil.momorgan.com" />
     <updated>1970-01-01T01:00:00+01:00</updated>
