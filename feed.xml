@@ -3,10 +3,26 @@
     <title>This week, I learned</title>
     <link href="https://twil.momorgan.com/feed.xml" rel="self" />
     <link href="https://twil.momorgan.com" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2022-12-24T18:03:22+00:00</updated>
     <author>
         <name>Mo Morgan</name>
     </author>
     <id>https://twil.momorgan.com</id>
 
+    <entry>
+        <title>2022 Yearnote</title>
+        <author>
+            <name>Mo Morgan</name>
+        </author>
+        <link href="https://twil.momorgan.com/2022-yearnote/"/>
+        <id>https://twil.momorgan.com/2022-yearnote/</id>
+
+        <updated>2022-12-24T18:03:22+00:00</updated>
+            <summary>
+                <![CDATA[
+                    There are years we’d rather forget, and them some we wish to cherish. 2022 has been a significant and transformative year for me, particularly considering the two or three that came before it. Here’s some of the things that happened. First, a brief primer on&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
 </feed>
