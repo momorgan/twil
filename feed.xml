@@ -3,12 +3,28 @@
     <title>This week, I learned – weeknotes by Mo Morgan</title>
     <link href="https://twil.momorgan.com/feed.xml" rel="self" />
     <link href="https://twil.momorgan.com" />
-    <updated>2022-12-24T18:03:22+00:00</updated>
+    <updated>2023-01-06T21:35:44+00:00</updated>
     <author>
         <name>Mo Morgan</name>
     </author>
     <id>https://twil.momorgan.com</id>
 
+    <entry>
+        <title>Weeknote 0001</title>
+        <author>
+            <name>Mo Morgan</name>
+        </author>
+        <link href="https://twil.momorgan.com/weeknote-0001/"/>
+        <id>https://twil.momorgan.com/weeknote-0001/</id>
+
+        <updated>2023-01-06T21:35:44+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Hey. It’s me. Hope you’re well. A longer introduction to this little site will follow below. For wider context, I also wrote about my 2022. In some form or another, I’ve been diarising for years. In 1999, I started posting to my site every day&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>2022 Yearnote</title>
         <author>
