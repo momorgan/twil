@@ -3,12 +3,28 @@
     <title>This week, I learned – weeknotes by Mo Morgan</title>
     <link href="https://twil.momorgan.com/feed.xml" rel="self" />
     <link href="https://twil.momorgan.com" />
-    <updated>2023-01-13T14:07:59+00:00</updated>
+    <updated>2023-01-13T18:00:00+00:00</updated>
     <author>
         <name>Mo Morgan</name>
     </author>
     <id>https://twil.momorgan.com</id>
 
+    <entry>
+        <title>Weeknote 0002</title>
+        <author>
+            <name>Mo Morgan</name>
+        </author>
+        <link href="https://twil.momorgan.com/weeknote-0002/"/>
+        <id>https://twil.momorgan.com/weeknote-0002/</id>
+
+        <updated>2023-01-13T18:00:00+00:00</updated>
+            <summary>
+                <![CDATA[
+                    A thought about weeknotes, why they’d be valuable for agencies and yet why they’ll never adopt them, follows below. So I’ve been doing a bunch of research in recent weeks into the automotive market and its aspirations to move from product manufacture to service provider.
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Weeknote 0001</title>
         <author>
