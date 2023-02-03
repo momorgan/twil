@@ -3,12 +3,28 @@
     <title>This week, I learned – weeknotes by Mo Morgan</title>
     <link href="https://twil.momorgan.com/feed.xml" rel="self" />
     <link href="https://twil.momorgan.com" />
-    <updated>2023-01-27T18:38:33+00:00</updated>
+    <updated>2023-02-03T18:14:44+00:00</updated>
     <author>
         <name>Mo Morgan</name>
     </author>
     <id>https://twil.momorgan.com</id>
 
+    <entry>
+        <title>Weeknote 0005</title>
+        <author>
+            <name>Mo Morgan</name>
+        </author>
+        <link href="https://twil.momorgan.com/weeknote-0005/"/>
+        <id>https://twil.momorgan.com/weeknote-0005/</id>
+
+        <updated>2023-02-03T18:14:44+00:00</updated>
+            <summary>
+                <![CDATA[
+                    I now have an NHS dentist that works Saturdays! Never had much luck with dental administration, either finding them available or them honouring my appointments, so being able to go on a weekend appointment feels like a special thing. Therefore, I went for an inspection&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Weeknote 0004</title>
         <author>
@@ -17,7 +33,7 @@
         <link href="https://twil.momorgan.com/weeknote-0004/"/>
         <id>https://twil.momorgan.com/weeknote-0004/</id>
 
-        <updated>2023-01-27T18:38:33+00:00</updated>
+        <updated>2023-02-03T07:27:32+00:00</updated>
             <summary>
                 <![CDATA[
                     A long old trip to a clients’ site on Monday: a seven-hour round trip by rail. Up early, home late. A good day, though. And I’ve learned there’s no such thing as train-grade wifi anymore. Some appauling, others practically as good as home. And there&hellip;
@@ -69,22 +85,6 @@
             <summary>
                 <![CDATA[
                     Hey. It’s me. Hope you’re well. A longer introduction to this little site will follow below. For wider context, I also wrote about my 2022. I bought a bass guitar! The build-up to this has been long. 20 years ago I was in a garage&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>2022 Yearnote</title>
-        <author>
-            <name>Mo Morgan</name>
-        </author>
-        <link href="https://twil.momorgan.com/2022-yearnote/"/>
-        <id>https://twil.momorgan.com/2022-yearnote/</id>
-
-        <updated>2023-01-22T22:05:59+00:00</updated>
-            <summary>
-                <![CDATA[
-                    There are years we’d rather forget, and them some we wish to cherish. 2022 has been a significant and transformative year for me, particularly considering the two or three that came before it. Here’s some of the things that happened. First, a brief primer on&hellip;
                 ]]>
             </summary>
         <content></content>
