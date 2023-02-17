@@ -3,12 +3,28 @@
     <title>This week, I learned – weeknotes by Mo Morgan</title>
     <link href="https://twil.momorgan.com/feed.xml" rel="self" />
     <link href="https://twil.momorgan.com" />
-    <updated>2023-02-10T18:53:34+00:00</updated>
+    <updated>2023-02-17T18:00:00+00:00</updated>
     <author>
         <name>Mo Morgan</name>
     </author>
     <id>https://twil.momorgan.com</id>
 
+    <entry>
+        <title>Weeknote 0007</title>
+        <author>
+            <name>Mo Morgan</name>
+        </author>
+        <link href="https://twil.momorgan.com/weeknote-0007/"/>
+        <id>https://twil.momorgan.com/weeknote-0007/</id>
+
+        <updated>2023-02-17T18:00:00+00:00</updated>
+            <summary>
+                <![CDATA[
+                    The Last of Us is an impressive show. That third episode with Nick Offerman and Murray Bartlett putting down world-class performances of a great script had me bawling. A working week of wacky weirdness. Knotty strategic problems. If there is a perfect answer, it’s not&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Weeknote 0006</title>
         <author>
@@ -69,22 +85,6 @@
             <summary>
                 <![CDATA[
                     Went househunting. No matter how carefully you study the listings and photos, you never know what awaits you. Perhaps I was seduced by the Rightmove ad: soft, twinkling sunlight streaming in as soft, twinkling piano music plays on. But I certainly wasn’t prepared for the&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Weeknote 0002</title>
-        <author>
-            <name>Mo Morgan</name>
-        </author>
-        <link href="https://twil.momorgan.com/weeknote-0002/"/>
-        <id>https://twil.momorgan.com/weeknote-0002/</id>
-
-        <updated>2023-01-22T22:06:08+00:00</updated>
-            <summary>
-                <![CDATA[
-                    A thought about weeknotes, why they’d be valuable for agencies and yet why they’ll never adopt them, follows below. So I’ve been doing a bunch of research in recent weeks into the automotive market and its aspirations to move from product manufacture to service provider.
                 ]]>
             </summary>
         <content></content>
