@@ -3,12 +3,28 @@
     <title>This week, I learned – weeknotes by Mo Morgan</title>
     <link href="https://twil.momorgan.com/feed.xml" rel="self" />
     <link href="https://twil.momorgan.com" />
-    <updated>2023-03-03T18:00:00+00:00</updated>
+    <updated>2023-03-10T07:45:05+00:00</updated>
     <author>
         <name>Mo Morgan</name>
     </author>
     <id>https://twil.momorgan.com</id>
 
+    <entry>
+        <title>Weeknote 0010</title>
+        <author>
+            <name>Mo Morgan</name>
+        </author>
+        <link href="https://twil.momorgan.com/weeknote-0010/"/>
+        <id>https://twil.momorgan.com/weeknote-0010/</id>
+
+        <updated>2023-03-10T07:45:05+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Spent the weekend with my lovely friends for whom I was Best Man. We went to place with a couple of bowling alleys and some interactive dartboards. It’s been some years since I rolled a bowling ball, and I can’t help going full Big Lebowski&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Weeknote 0009</title>
         <author>
@@ -69,22 +85,6 @@
             <summary>
                 <![CDATA[
                     A slog of a week. One of those ones that felt about nine days long. Not always a bad thing, though. Another unsuccessful house-hunt at the weekend. Couldn’t get in to see the one I’m sure is probably the best candidate so far. Another was&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Weeknote 0005</title>
-        <author>
-            <name>Mo Morgan</name>
-        </author>
-        <link href="https://twil.momorgan.com/weeknote-0005/"/>
-        <id>https://twil.momorgan.com/weeknote-0005/</id>
-
-        <updated>2023-02-10T18:15:29+00:00</updated>
-            <summary>
-                <![CDATA[
-                    I now have an NHS dentist that works Saturdays! Never had much luck with dental administration, either finding them available or them honouring my appointments, so being able to go on a weekend appointment feels like a special thing. Therefore, I went for an inspection&hellip;
                 ]]>
             </summary>
         <content></content>
