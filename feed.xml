@@ -3,12 +3,28 @@
     <title>This week, I learned – weeknotes by Mo Morgan</title>
     <link href="https://twil.momorgan.com/feed.xml" rel="self" />
     <link href="https://twil.momorgan.com" />
-    <updated>2023-04-22T08:06:31+01:00</updated>
+    <updated>2023-04-28T22:14:00+01:00</updated>
     <author>
         <name>Mo Morgan</name>
     </author>
     <id>https://twil.momorgan.com</id>
 
+    <entry>
+        <title>Weeknote 0017</title>
+        <author>
+            <name>Mo Morgan</name>
+        </author>
+        <link href="https://twil.momorgan.com/weeknote-0017/"/>
+        <id>https://twil.momorgan.com/weeknote-0017/</id>
+
+        <updated>2023-04-28T22:14:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                    The feeling of making progress seems to operate independently of progress itself. This is something of which I remind myself when working on the campervan conversion. Even though progress is happening all the time, it feels as if only sometimes there’s a step forward. In&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Weeknote 0016</title>
         <author>
@@ -69,22 +85,6 @@
             <summary>
                 <![CDATA[
                     My Mac came back. Hardware issue fixed but, annoyingly, they took it upon themselves to wipe the thing and reinstall the OS. How that helps with a blown speaker I do not know. Recovering a 2TB volume is a long and tedious series of niggles.
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Weeknote 0012</title>
-        <author>
-            <name>Mo Morgan</name>
-        </author>
-        <link href="https://twil.momorgan.com/weeknote-0012/"/>
-        <id>https://twil.momorgan.com/weeknote-0012/</id>
-
-        <updated>2023-03-31T19:29:23+01:00</updated>
-            <summary>
-                <![CDATA[
-                    My phone is limping along now. No longer supported by its maker and with a seemingly unreplaceable battery, it is obsolescence in the palm of my hand. But it’s hard to bring myself to change it. I stumped up for a decent spec and I’ve&hellip;
                 ]]>
             </summary>
         <content></content>
